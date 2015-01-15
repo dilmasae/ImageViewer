@@ -1,6 +1,6 @@
 
 package model;
 
-public class Bitmap {
+public interface Bitmap {
     
 }

@@ -1,6 +1,6 @@
 package model;
 
-public class Image {
+public interface Image {
     
     public Bitmap getBitmap();
     public Image getNext();
